@@ -1,0 +1,12 @@
+{
+  "name": "alegrify-async-map",
+  "version": "1.0.0",
+  "description": "Array.prototype.map, but with async callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "dejakob",
+  "license": "MIT"
+}
